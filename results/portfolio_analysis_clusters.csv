@@ -1,0 +1,4 @@
+cluster,n_countries,countries,winners,losers,mean_pub_growth_ratio,median_pub_growth_ratio
+0,12,"Canada, Czech Republic, Denmark, France, Germany, Italy, Japan, Korea, New Zealand, Norway, Slovak Republic, Switzerland","CO2 capture & storage, Geothermal",Nuclear,28.83275282648566,18.86649370522362
+1,7,"Finland, Hungary, Ireland, Netherlands, Republic of Türkiye, Sweden, United Kingdom","Hydrogen & fuel cells, Solar","Biofuels, Nuclear",32.04684821278408,29.57281553398058
+2,4,"Australia, Austria, Portugal, Spain","Hydrogen & fuel cells, CO2 capture & storage","Nuclear, Solar",22.366021923035312,25.165969877365082

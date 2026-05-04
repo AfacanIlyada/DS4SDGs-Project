@@ -1,0 +1,16 @@
+# IEA source data — too large and licensed; download manually
+data/raw/*.csv
+data/raw/*.xlsx
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Paper artifacts — kept out of the public repo
+paper/
+
+node_modules/
+*.pdf
