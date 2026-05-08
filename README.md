@@ -52,12 +52,7 @@ DS4SDGs-Project/
 │   └── 08_crosslinks.ipynb
 ├── figures/                    # All output figures (19 PNGs)
 ├── results/                    # All output CSVs (9 files)
-└── paper/
-    ├── paper.docx
-    └── latex/
-        ├── main.tex
-        ├── references.bib
-        └── figures/
+
 ```
 
 ## Data Access
